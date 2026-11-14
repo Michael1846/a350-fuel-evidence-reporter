@@ -1,0 +1,293 @@
+{
+  "components": [
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_asyncio.pyd",
+      "bytes": 65304,
+      "sha256": "746bc8fa88282afe19dc60e426cc0a75bea3bd137cca06a0b57a30bd31459403",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_bz2.pyd",
+      "bytes": 84760,
+      "sha256": "00b8ca9a338d2b47285c9e56d6d893db2a999b47216756f18439997fb80a56e3",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_ctypes.pyd",
+      "bytes": 124696,
+      "sha256": "c148292328f0aab7863af82f54f613961e7cb95b7215f7a81cafaf45bd4c42b7",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_decimal.pyd",
+      "bytes": 255768,
+      "sha256": "980a63f2b39cf16910f44384398e25f24482346a482addb00de42555b17d4278",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_elementtree.pyd",
+      "bytes": 128792,
+      "sha256": "02e30b6a2bee5be5336e40a9c89575603051bde86f9c9cdc78b7fa7d9b7bd1f0",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_hashlib.pyd",
+      "bytes": 65304,
+      "sha256": "87dd0c858620287454fd6d31d52b6a48eddbb2a08e09e8b2d9fdb0b92200d766",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_lzma.pyd",
+      "bytes": 159512,
+      "sha256": "f5e01b516c2c23035f7703e23569dec26c5616c05a929b2580ae474a5c6722c5",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_multiprocessing.pyd",
+      "bytes": 34584,
+      "sha256": "975c1947798e3c39898c86675ca1eb68249f77361f41f172f9800275227213b9",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_overlapped.pyd",
+      "bytes": 51480,
+      "sha256": "ca106e4dfdeafeabf9e98956d3d8d0cb73e109f1a96f1a7e35bc47dbd7c7e164",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_queue.pyd",
+      "bytes": 32024,
+      "sha256": "3f8e7e6aa13b417acc78b63434fb1144e6319a010a9fc376c54d6e69b638fe4c",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_socket.pyd",
+      "bytes": 79640,
+      "sha256": "a19e3c7c03ef1b5625790b1c9c42594909311ab6df540fbf43c6aa93300ab166",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/_ssl.pyd",
+      "bytes": 178456,
+      "sha256": "ba5388d6a6557d431e086734a3323621dc447f63ba299b0a815e5837cf869678",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.0.13",
+      "company": "The OpenSSL Project, https://www.openssl.org/",
+      "path": "_internal/libcrypto-3.dll",
+      "bytes": 5191960,
+      "sha256": "05fe080eab7fc535c51e10c1bd76a2f3e6217f9c91a25034774588881c3f99de",
+      "file_version": "3.0.13"
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/libffi-8.dll",
+      "bytes": 39696,
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "file_version": null
+    },
+    {
+      "product_version": "3.0.13",
+      "company": "The OpenSSL Project, https://www.openssl.org/",
+      "path": "_internal/libssl-3.dll",
+      "bytes": 787224,
+      "sha256": "2e9fbcd8f7fdc13a5179533239811456554f2b3aa2fb10e1b17be0df81c79006",
+      "file_version": "3.0.13"
+    },
+    {
+      "product_version": "14.51.36247.0",
+      "company": "Microsoft Corporation",
+      "path": "_internal/msvcp140.dll",
+      "bytes": 643512,
+      "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca",
+      "file_version": "14.51.36247.0"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/pyexpat.pyd",
+      "bytes": 199448,
+      "sha256": "c7c7564f7f874fb660a46384980a2cf28bc3e245ca83628a197ccf861eab5560",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/python3.dll",
+      "bytes": 67352,
+      "sha256": "db84bc052cfb121fe4db36242ba5f1d2c031b600ef5d8d752cf25b7c02b6bac6",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/python311.dll",
+      "bytes": 5800216,
+      "sha256": "0817a2a657a24c0d5fbb60df56960f42fc66b3039d522ec952dab83e2d869364",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/select.pyd",
+      "bytes": 30488,
+      "sha256": "bae0974390945520eb99ab32486c6a964691f8f4a028ac408d98fa8fb0db7d90",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "3.11.9",
+      "company": "Python Software Foundation",
+      "path": "_internal/unicodedata.pyd",
+      "bytes": 1140504,
+      "sha256": "37c68617fa02a2cadced17ef724e2d450ef12a8a37215da789a4679fde1c5c02",
+      "file_version": "3.11.9"
+    },
+    {
+      "product_version": "14.51.36247.0",
+      "company": "Microsoft Corporation",
+      "path": "_internal/vcruntime140_1.dll",
+      "bytes": 50112,
+      "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e",
+      "file_version": "14.51.36247.0"
+    },
+    {
+      "product_version": "14.51.36247.0",
+      "company": "Microsoft Corporation",
+      "path": "_internal/vcruntime140.dll",
+      "bytes": 178616,
+      "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7",
+      "file_version": "14.51.36247.0"
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/charset_normalizer/cd.cp311-win_amd64.pyd",
+      "bytes": 116736,
+      "sha256": "71f058fba64042b52ffa94a5637e57208fa9a3e027be2ea8ed2ddb3ce8ea462f",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/charset_normalizer/md.cp311-win_amd64.pyd",
+      "bytes": 215552,
+      "sha256": "d5c25e49d631c6160db27f126ba83c4621212a9be45c9f5c0a2ddc415692c945",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_avif.cp311-win_amd64.pyd",
+      "bytes": 7888896,
+      "sha256": "84528ec60c7a6df7117c6e35257d6b9d369c739444e9a593b68c60b17b6bdd13",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_imaging.cp311-win_amd64.pyd",
+      "bytes": 2632704,
+      "sha256": "16452bdc0cd84bbc8e034319e67f776ddc9d23767e6c589d89a5c973738d5fb4",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_imagingcms.cp311-win_amd64.pyd",
+      "bytes": 273408,
+      "sha256": "dcfcef40237bbef115c4c5dbcb18d1fa3ea8f810f8e6a684cad05d25150e704a",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_imagingft.cp311-win_amd64.pyd",
+      "bytes": 2174464,
+      "sha256": "64c12405543e6e531af2e63773b42ee3a1265b5c1a071d6c45d95ab4af931867",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_imagingmath.cp311-win_amd64.pyd",
+      "bytes": 21504,
+      "sha256": "ae7a41f2f9dfcefaaa8334a83b2fe6e1a3658a7fd1e3cba3326d33804666495a",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_imagingtk.cp311-win_amd64.pyd",
+      "bytes": 14848,
+      "sha256": "c0796f7768c0fa7bd20df9919b7c39dff544f1a2485f2b79b939142fe9df6596",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/PIL/_webp.cp311-win_amd64.pyd",
+      "bytes": 416256,
+      "sha256": "ab2b193c50448e200b9d9455fef8a1374aac8822b4b8edd6f9f16162f991d3ba",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/pymupdf/_extra.pyd",
+      "bytes": 190976,
+      "sha256": "43292c50f18dafa1d92dec67e076d2340a361a24e510edb6ccfe8de7364b6b10",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/pymupdf/_mupdf.pyd",
+      "bytes": 13063168,
+      "sha256": "8b0a0a990523eaecf695ec7f9bb5660047b11948649a7e89369141c03dc589d9",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/pymupdf/mupdfcpp64.dll",
+      "bytes": 26295808,
+      "sha256": "998184dce298f24a4c2b080a9173594c96c6f78796732bdd8e95ca0e557557cb",
+      "file_version": null
+    },
+    {
+      "product_version": null,
+      "company": null,
+      "path": "_internal/SimConnect/SimConnect.dll",
+      "bytes": 58368,
+      "sha256": "677fd3849d54e2a6831dc1aa348d974ead2255ec609fbf5830ef32bf0804b8bc",
+      "file_version": null
+    }
+  ],
+  "status": "Exact artifact mapping in BINARY_SOURCE_MAP.json"
+}

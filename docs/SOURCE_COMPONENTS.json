@@ -1,0 +1,276 @@
+{
+  "version": "0.7.11-rc2",
+  "publisher": "Brazzor",
+  "archives": [
+    {
+      "filename": "altgraph-0.17.5.tar.gz",
+      "bytes": 48428,
+      "sha256": "c87b395dd12fabde9c99573a9749d67da8d29ef9de0125c7f536699b4a9bc9e7",
+      "url": "https://files.pythonhosted.org/packages/7e/f8/97fdf103f38fed6792a1601dbc16cc8aac56e7459a9fff08c812d8ae177a/altgraph-0.17.5.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "aom-3.14.1.tar.gz",
+      "bytes": 6438139,
+      "sha256": "6982e8b2f45b22d98e793790c600aa6fbb8b11de8bcdfde0e4f9cf167e9badb4",
+      "url": "https://aomedia.googlesource.com/aom/+archive/refs/tags/v3.14.1.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "brotli-1.2.0.tar.gz",
+      "bytes": 646315,
+      "sha256": "816c96e8e8f193b40151dad7e8ff37b1221d019dbcb9c35cd3fadbfe6477dfec",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/brotli-1.2.0.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "charset_normalizer-3.5.2.tar.gz",
+      "bytes": 172659,
+      "sha256": "39de2a259fc954455c57274dc94c79d5842774e1247a016aff30bc0efed0f4ef",
+      "url": "https://files.pythonhosted.org/packages/33/1c/f41d4e74c28ab327ff3acd36053f7ea506c55872d7a90b0fa71aa3ab0c89/charset_normalizer-3.5.2.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "CPython-bzip2-1.0.8-05301997b2f9.tar.gz",
+      "bytes": 819016,
+      "sha256": "ab14accac86cdd92021d50465deeb221b476d6675bd1383d3c7fb83751c2e0a3",
+      "url": "https://codeload.github.com/python/cpython-source-deps/tar.gz/05301997b2f9590f49c672cf3dfd3d3dfa7ad521",
+      "upstream_commit": "05301997b2f9590f49c672cf3dfd3d3dfa7ad521",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "CPython-libffi-3.4.4-73b247f34ef3.tar.gz",
+      "bytes": 1376474,
+      "sha256": "a9b2840c1b99a2b57746c50f1f2ab902420628111690ec420e7293ec1f502d7b",
+      "url": "https://codeload.github.com/python/cpython-source-deps/tar.gz/73b247f34ef3ae1859b8c2c34d321d34ebc5db15",
+      "upstream_commit": "73b247f34ef3ae1859b8c2c34d321d34ebc5db15",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "CPython-openssl-3.0.13-a5c15eb94f28.tar.gz",
+      "bytes": 15448690,
+      "sha256": "2b75818d57d5e05b79f0a09392c98a2687944e3eea580d0d3d60111f039e9a46",
+      "url": "https://codeload.github.com/python/cpython-source-deps/tar.gz/a5c15eb94f2878e44ffc74086b0cd2ea8db55488",
+      "upstream_commit": "a5c15eb94f2878e44ffc74086b0cd2ea8db55488",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+      "bytes": 1745919,
+      "sha256": "115433c946ee069e857fd04cf41b38a4a74ed45d868a3b2e08ccd4a1f04f39d0",
+      "url": "https://codeload.github.com/python/cpython-source-deps/tar.gz/c6bc0c612605622aaef101a33a751f9de2ecc193",
+      "upstream_commit": "c6bc0c612605622aaef101a33a751f9de2ecc193",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "CPython-zlib-1.3.1-4dc98e190983.tar.gz",
+      "bytes": 1572582,
+      "sha256": "1fe30e919eb560f495de9ee4bd7ba5216ce13f454affb4ccc32e15efa3878f5e",
+      "url": "https://codeload.github.com/python/cpython-source-deps/tar.gz/4dc98e1909830e2bdc2a9cc2236e3c5d5037335b",
+      "upstream_commit": "4dc98e1909830e2bdc2a9cc2236e3c5d5037335b",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "dav1d-1.5.3-b546257f7707.tar.gz",
+      "bytes": 1716568,
+      "sha256": "c5b7428c3f5b28db0aee0c62f6ffb2b42f4b08e7be5ce49d7ad046aaf0dc151d",
+      "url": "https://codeload.github.com/videolan/dav1d/tar.gz/b546257f770768b2c88258c533da38b91a06f737",
+      "upstream_commit": "b546257f770768b2c88258c533da38b91a06f737",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "freetype-2.14.3.tar.gz",
+      "bytes": 4134916,
+      "sha256": "e61b31ab26358b946e767ed7eb7f4bb2e507da1cfefeb7a8861ace7fd5c899a1",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/freetype-2.14.3.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "lcms2-2.19.1.tar.gz",
+      "bytes": 5728743,
+      "sha256": "bfc54f7bab59fbc921012014a8032e4cba4abd46db47d46b76416a8c0b2815c8",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/lcms2-2.19.1.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "libavif-1.4.2.tar.gz",
+      "bytes": 14665927,
+      "sha256": "2b645287340ba5a631d268b551dc2d72bd73ac33335962dd36dcdb6d8366921d",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/libavif-1.4.2.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "libjpeg-turbo-3.1.4.1.tar.gz",
+      "bytes": 2528617,
+      "sha256": "ecae8008e2cc9ade2f2c1bb9d5e6d4fb73e7c433866a056bd82980741571a022",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/libjpeg-turbo-3.1.4.1.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "libpng-1.6.58.tar.gz",
+      "bytes": 1592190,
+      "sha256": "a9d4df463d36a6e5f9c29bd6f4967312d17e996c1854f3511f833924eb1993cf",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/libpng-1.6.58.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "libwebp-1.6.0.tar.gz",
+      "bytes": 4296070,
+      "sha256": "e4ab7009bf0629fd11982d4c2aa83964cf244cffba7347ecd39019a9e38c4564",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/libwebp-1.6.0.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "mupdf-1.28.2-source.tar.gz",
+      "bytes": 68898646,
+      "sha256": "44075a84e329db55b9bef5f342a70fd26d69e48ad1d33cb89d9664581c641156",
+      "url": "https://mupdf.com/downloads/archive/mupdf-1.28.2-source.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS retrieval and recorded digest; upstream signature not checked"
+    },
+    {
+      "filename": "openjpeg-2.5.4.tar.gz",
+      "bytes": 2157028,
+      "sha256": "a695fbe19c0165f295a8531b1e4e855cd94d0875d2f88ec4b61080677e27188a",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/openjpeg-2.5.4.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "packaging-26.3.tar.gz",
+      "bytes": 313412,
+      "sha256": "94edc256424af38762eb31306eed28beb9f0efc50a8837492c9d6fd6004aed79",
+      "url": "https://files.pythonhosted.org/packages/7d/fa/3944b40b07da9ce895c0e6303a5ab7d53da063554f534556b134a54d6093/packaging-26.3.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "pefile-2024.8.26.tar.gz",
+      "bytes": 76008,
+      "sha256": "3ff6c5d8b43e8c37bb6e6dd5085658d658a7a0bdcd20b6a07b1fcfc1c4e9d632",
+      "url": "https://files.pythonhosted.org/packages/03/4f/2750f7f6f025a1507cd3b7218691671eecfd0bbebebe8b39aa0fe1d360b8/pefile-2024.8.26.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "pillow-12.3.0.tar.gz",
+      "bytes": 47025035,
+      "sha256": "3b8182a766685eaa002637e28b4ec8d6b18819a0c71f579bf0dbaa5830297cce",
+      "url": "https://files.pythonhosted.org/packages/1c/3d/bb7fca845737cf9d7dbde16ed1843984665ff2e0a518f5db43e77ec540b9/pillow-12.3.0.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+      "bytes": 47129949,
+      "sha256": "3088957d53e64d5bc802dc043d64de2d76796c3f3b973113bdbb4c9ecd1b30a1",
+      "url": "https://codeload.github.com/python-pillow/Pillow/tar.gz/bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d",
+      "upstream_commit": "bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d",
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "pyinstaller-6.22.3.tar.gz",
+      "bytes": 4437180,
+      "sha256": "05eb2f5615503e72939a7224d68b4aff572c6b0438ee4a17d0a4b481f399362d",
+      "url": "https://files.pythonhosted.org/packages/63/41/f90302845945abd4ed647933ff5ee7c6ac93983187be67f897b6cb613331/pyinstaller-6.22.3.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "pyinstaller_hooks_contrib-2026.9.tar.gz",
+      "bytes": 180783,
+      "sha256": "2748767901acb5cecd1304652b6c7add5bffcff1d71d01207fe24a5d42942a56",
+      "url": "https://files.pythonhosted.org/packages/96/25/e47c6188228281372be7e9911a93931e01ec8798c02c93abd680b9b9521f/pyinstaller_hooks_contrib-2026.9.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "pymupdf-1.28.2.tar.gz",
+      "bytes": 87903557,
+      "sha256": "5e0be7908a715aa20333caddd73f1d6f01e4cd0c26e869fa2dd0b7f344da2249",
+      "url": "https://files.pythonhosted.org/packages/a3/fb/b6761fa2d5266f2cdb24c3b91f4023070ab7848381417678e7a289a1d52a/pymupdf-1.28.2.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "Python-3.11.9.tar.xz",
+      "bytes": 20175816,
+      "sha256": "9b1e896523fc510691126c864406d9360a3d1e986acbda59cda57b5abda45b87",
+      "url": "https://www.python.org/ftp/python/3.11.9/Python-3.11.9.tar.xz",
+      "upstream_commit": null,
+      "verification": "TLS retrieval and recorded digest; upstream signature not checked"
+    },
+    {
+      "filename": "pywin32-ctypes-0.2.3.tar.gz",
+      "bytes": 29471,
+      "sha256": "d162dc04946d704503b2edc4d55f3dba5c1d539ead017afa00142c38b9885755",
+      "url": "https://files.pythonhosted.org/packages/85/9f/01a1a99704853cb63f253eea009390c88e7131c67e66a0a02099a8c917cb/pywin32-ctypes-0.2.3.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "reportlab-4.5.1.tar.gz",
+      "bytes": 3939748,
+      "sha256": "9fdf68f4de9171ec66acb4a5feed8f8ca2af43479e707a6fbb0daa75d88e5494",
+      "url": "https://files.pythonhosted.org/packages/4d/3f/b3861b7e40c9d66f4a04e018958d681d16b948bfd1963c962d43a8c23f66/reportlab-4.5.1.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "setuptools-65.5.0.tar.gz",
+      "bytes": 2616463,
+      "sha256": "512e5536220e38146176efb833d4a62aa726b7bbff82cfbc8ba9eaa3996e0b17",
+      "url": "https://files.pythonhosted.org/packages/c5/41/247814d8b7a044717164c74080725a6c8f3d2b5fc82b34bd825b617df663/setuptools-65.5.0.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "SimConnect-0.4.26.tar.gz",
+      "bytes": 97991,
+      "sha256": "9fb7574ed5dc9f407c290f47ba3fcc529946e7e728b2090c2b091f5f54c656b4",
+      "url": "https://files.pythonhosted.org/packages/41/26/5481c132dcab9bbdd2fb85954d5608f87f387abed0dd3788353b05aa8cb3/SimConnect-0.4.26.tar.gz",
+      "upstream_commit": null,
+      "verification": "PyPI SHA-256 matched"
+    },
+    {
+      "filename": "tiff-4.7.1.tar.gz",
+      "bytes": 4000609,
+      "sha256": "f698d94f3103da8ca7438d84e0344e453fe0ba3b7486e04c5bf7a9a3fabe9b69",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/tiff-4.7.1.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "xz-5.8.3.tar.gz",
+      "bytes": 2771455,
+      "sha256": "3d3a1b973af218114f4f889bbaa2f4c037deaae0c8e815eec381c3d546b974a0",
+      "url": "https://raw.githubusercontent.com/python-pillow/pillow-depends/70c5bf5e940f5f1aee75ddb0421f0abfd9581261/xz-5.8.3.tar.gz",
+      "upstream_commit": null,
+      "verification": "TLS download; locally recorded SHA-256"
+    },
+    {
+      "filename": "zlib-ng-2.3.3-12731092979c.tar.gz",
+      "bytes": 2450038,
+      "sha256": "a0d2a5d122c84b56a793a1553a9c3327fb2eb7469bf7a86b79e3c7be5d92e8d6",
+      "url": "https://codeload.github.com/zlib-ng/zlib-ng/tar.gz/12731092979c6d07f42da27da673a9f6c7b13586",
+      "upstream_commit": "12731092979c6d07f42da27da673a9f6c7b13586",
+      "verification": "TLS download; locally recorded SHA-256"
+    }
+  ],
+  "technical_collection": "assembled; native rebuilds not independently reproduced",
+  "system_library_binary_inputs": "Microsoft CRT retained under Microsoft terms; source not represented as available",
+  "references": [
+    "BINARY_SOURCE_MAP.json",
+    "SOURCE_BUILD.md"
+  ]
+}

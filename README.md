@@ -4,7 +4,6 @@
 Technical acceptance checks are documented separately in the release checklist.
 
 Free, independent community software for the iniBuilds A350 in MSFS 2024.
-Public publisher name: **Brazzor**. Selected private repository account: **Michael1846**.
 Records SimConnect telemetry, direct per-engine fuel-flow LVars, N1 and anti-ice;
 compares SimBrief planning with measured fuel; captures screenshots and exports
 local CSV, PDF and evidence ZIP files. No automatic flight-data uploads.

@@ -1,0 +1,21 @@
+name: Bug report
+description: Report a reproducible problem with the local Reporter.
+body:
+  - type: input
+    id: versions
+    attributes:
+      label: Reporter, Windows, MSFS and A350 versions
+      description: Use the version shown in the Reporter header.
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps, expected result and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Optional evidence
+      description: No flight upload is required. If you choose to attach a report or screenshot, review it for personal or third-party content first. Never include config.json or integration tokens.

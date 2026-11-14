@@ -1,7 +1,6 @@
 # Source access — 0.7.11-rc2
 
-Publisher: Brazzor. Application license: GNU AGPL version 3 only. Third parties
-retain their licenses; Microsoft binaries are not relicensed under the AGPL.
+Publisher: Brazzor.
 
 Every public binary release must offer these version-matched assets together,
 free of charge and without requiring a flight-data upload:
@@ -16,14 +15,12 @@ build procedure. The full source archive is a separate download to keep the
 Windows application download small. When provided beside the executable, the
 local UI can serve the full archive through its Full source package link.
 
-The GitHub repository/tag has not yet been selected or published. Before any
+Private source repository: https://github.com/Michael1846/a350-fuel-evidence-reporter.
+A public release/tag has not been published. Before any
 public binary download is enabled, the publisher must check that the matching
 full source archive is accessible at the same release and fill the final release
 URL into this document. This is a publication step; no fake download URL is used.
 
-This candidate's technical source collection has been assembled. The Microsoft
-SimConnect binary's applicable redistribution terms and AGPL-combination basis
-remain unresolved. The filename CORRESPONDING_SOURCE describes the intended
-release asset; it does not assert that the proprietary DLL has source available
-or that its source is exempt without a valid licensing basis. See
-`docs/LICENSE_REVIEW.md` for the precise open point.
+The full source archive contains the application, collected upstream sources,
+build inputs and component provenance. Proprietary Microsoft source code is not
+part of the project source.

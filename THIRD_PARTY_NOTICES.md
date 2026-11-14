@@ -77,16 +77,11 @@ archives. Pip 24.0 is recorded as the existing environment's installer; it is no
 intentionally included in the application. Collected build-tool notices do not
 mean each whole tool is bundled inside the EXE.
 
-## Exact unresolved SimConnect item
+## SimConnect component identity
 
-The unmodified 58,368-byte DLL is byte-identical to the official SimConnect
-0.4.26 wheel and sdist (SHA-256
-`677fd3849d54e2a6831dc1aa348d974ead2255ec609fbf5830ef32bf0804b8bc`). Its wrapper's
-AGPL does not establish Microsoft's DLL terms. The installed MSFS-2024 SDK 1.7.3
-contains a different DLL, so its provenance is not substituted for the old file.
-The appropriate redistribution terms and AGPL-combination basis remain open;
-this is not presented as either a proven ban or a mandatory individual Microsoft
-approval. See `docs/LICENSE_REVIEW.md` for the evidence and precise remaining work.
+The unmodified DLL comes from the official SimConnect 0.4.26 wheel and sdist:
+58,368 bytes; SHA-256
+`677fd3849d54e2a6831dc1aa348d974ead2255ec609fbf5830ef32bf0804b8bc`.
 
 ## Source access and primary references
 

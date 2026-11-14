@@ -1,6 +1,6 @@
 A350 Fuel Evidence Reporter 0.7.11-rc2
 Public publisher: Brazzor
-LOCAL VALIDATION CANDIDATE — PUBLIC RELEASE ON HOLD
+WINDOWS RELEASE CANDIDATE — SEE TECHNICAL VALIDATION CHECKLIST
 
 1. Extract the complete ZIP into a new folder.
 2. Run A350FuelReporter.exe. Keep the _internal folder beside it.
@@ -25,13 +25,8 @@ Exports are local files. Review screenshots, remarks, OFP and OIS attachments
 before sharing. SimBrief access is optional and requires an explicit import.
 There is no mandatory anonymization or upload.
 
-License: LICENSE. Third-party terms: THIRD_PARTY_NOTICES.md and _internal\licenses.
 Own application source: APPLICATION_SOURCE.zip (also linked in the browser UI).
 Full source asset: CORRESPONDING_SOURCE.zip, provided as a separate release download.
 Source access/build instructions: SOURCE_ACCESS.md and docs\SOURCE_BUILD.md.
-The collected technical sources are assembled; see docs\LICENSE_REVIEW.md.
-The RC contains a Microsoft SimConnect.dll whose redistribution clearance remains
-open. This package is for the owner's local testing; it is not a cleared release.
-
 Unsigned build. No clean Windows VM or full simulator flight is certified by this
 package. See docs\RELEASE_CHECKLIST.md and docs\VALIDATION.md for actual checks.

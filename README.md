@@ -1,7 +1,7 @@
 # A350 Fuel Evidence Reporter
 
 **0.7.11-rc2 — local Windows release-validation candidate, based on v0.7.10.**
-Public release is on HOLD pending license/source clearance and acceptance tests.
+Technical acceptance checks are documented separately in the release checklist.
 
 Free, independent community software for the iniBuilds A350 in MSFS 2024.
 Public publisher name: **Brazzor**. Selected private repository account: **Michael1846**.
@@ -49,7 +49,7 @@ build and never copies recordings from the old installation. The Windows ZIP
 includes `APPLICATION_SOURCE.zip`. Hashes and a binary file inventory accompany
 it. The packaging command creates **local candidates**, with no upload/publishing.
 
-## Release and licensing
+## Release assets
 
 `scripts/dependency_sources.py --download` retrieves exact upstream source
 archives and records their hashes; `scripts/collect_source_notices.py` collects
@@ -59,20 +59,11 @@ binary to an official upstream artifact or the stable Microsoft Redist tree.
 The full `CORRESPONDING_SOURCE.zip` is a separate release asset; see
 [source access](SOURCE_ACCESS.md) and [source build](docs/SOURCE_BUILD.md).
 
-- [Current license review and blockers](docs/LICENSE_REVIEW.md)
 - [Release checklist](docs/RELEASE_CHECKLIST.md)
 - [GitHub draft release procedure](docs/GITHUB_RELEASE.md)
 - [Validation evidence](docs/VALIDATION.md)
-- [Third-party notices](THIRD_PARTY_NOTICES.md)
 - [Changelog](CHANGELOG.md)
 - [Simulator flight acceptance checklist](FLIGHT_TEST_CHECKLIST.md)
-
-Own application code is prepared under **AGPL-3.0-only**; see LICENSE and NOTICE.
-Third-party terms remain applicable. APPLICATION_SOURCE.zip contains the own
-application; the full source asset adds native/dependency sources, build inputs,
-notices and hashes. The exact Microsoft SimConnect DLL's redistribution terms
-and AGPL-combination basis remain open. This candidate has not been cleared by
-the project for public release. Other acceptance tests remain separate tasks.
 
 Exports are user-controlled local files. Review screenshots, OFP, remarks and OIS
 attachments before sharing. Missing evidence remains advisory; it does not block

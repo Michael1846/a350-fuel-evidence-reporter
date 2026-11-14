@@ -14,7 +14,7 @@ For flight simulation and software issue reporting, not real-world aviation.
 Application source is supplied beside the executable in APPLICATION_SOURCE.zip.
 The separate CORRESPONDING_SOURCE.zip includes the collected application,
 dependency and native sources plus build instructions and a hash manifest.
-See SOURCE_ACCESS.md and docs/LICENSE_REVIEW.md. Microsoft components retain
+See SOURCE_ACCESS.md. Microsoft components retain
 their own terms; the SimConnect DLL review is an explicit unresolved item.
 
 Changes since v0.7.10: release preparation, local user-data directory, local HTTP

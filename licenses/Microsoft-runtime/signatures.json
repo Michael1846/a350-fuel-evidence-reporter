@@ -1,0 +1,17 @@
+[
+  {
+    "status": "Valid",
+    "name": "msvcp140.dll",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "status": "Valid",
+    "name": "vcruntime140_1.dll",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  },
+  {
+    "status": "Valid",
+    "name": "vcruntime140.dll",
+    "signer": "CN=Microsoft Windows Software Compatibility Publisher, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
+  }
+]

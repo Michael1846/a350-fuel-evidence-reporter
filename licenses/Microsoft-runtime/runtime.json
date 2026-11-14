@@ -1,0 +1,23 @@
+{
+  "component": "Microsoft Visual C++ x64 Runtime",
+  "source": "Installed stable Visual Studio Build Tools VC/Redist tree",
+  "redist_reference": "https://learn.microsoft.com/en-us/visualstudio/releases/2026/redistribution",
+  "license_reference": "https://visualstudio.microsoft.com/license-terms/",
+  "files": [
+    {
+      "name": "msvcp140.dll",
+      "sha256": "7c26614e1d733892c2deac7e245ce115504b1d80592dd0a01b08e3e5a55f89ca",
+      "origin": "Visual Studio Build Tools/VC/Redist/MSVC/14.51.36231/x64/Microsoft.VC145.CRT/msvcp140.dll"
+    },
+    {
+      "name": "vcruntime140.dll",
+      "sha256": "d1f4225df2cd877dbf130d5668a021dce3f94118455ff5ec952061c30afc9ce7",
+      "origin": "Visual Studio Build Tools/VC/Redist/MSVC/14.51.36231/x64/Microsoft.VC145.CRT/vcruntime140.dll"
+    },
+    {
+      "name": "vcruntime140_1.dll",
+      "sha256": "a7146c08f89fe5b04541ab507cdb59ff7b44534d4ba3c668a426c6450a03434e",
+      "origin": "Visual Studio Build Tools/VC/Redist/MSVC/14.51.36231/x64/Microsoft.VC145.CRT/vcruntime140_1.dll"
+    }
+  ]
+}

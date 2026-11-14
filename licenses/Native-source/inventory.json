@@ -1,0 +1,902 @@
+[
+  {
+    "archive": "altgraph-0.17.5.tar.gz",
+    "member": "altgraph-0.17.5/LICENSE",
+    "file": "a6f7eeb5b5ba390a-LICENSE",
+    "sha256": "6c194d6db0c64d45535d10c95142b9b0cda7b7dcc7f1ddee302b3d536f3dbe46"
+  },
+  {
+    "archive": "altgraph-0.17.5.tar.gz",
+    "member": "altgraph-0.17.5/doc/license.rst",
+    "file": "b821d840b66f2ffa-license.rst",
+    "sha256": "c6071929fa693cf77461fdfcba69b98ffc76e2600d264adb09d04abd45c8b2c5"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "AUTHORS",
+    "file": "48f5e768372cfab4-AUTHORS",
+    "sha256": "1bf4faf64255fc1ffe1428e56f58f36050eeaac47a6401e532ca15823d21e9ac"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "LICENSE",
+    "file": "a550547feca5e009-LICENSE",
+    "sha256": "4764a286d8b2faeaf42f4418e7d7a28d58fc8fd4d00a3d0a7f44b0a4099de7f2"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "PATENTS",
+    "file": "f0422689e169ae9e-PATENTS",
+    "sha256": "661fb8e504744e95587b556b94a58343448300606a41bea8c7a9b97125696e61"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/fastfeat/LICENSE",
+    "file": "6103a0eee611e47a-LICENSE",
+    "sha256": "499041ddee5227b6f29ca06c17803e5fe24d60f243c69635cd76b7ba08d0ddd5"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/googletest/src/LICENSE",
+    "file": "51eafd4b7832a4b9-LICENSE",
+    "sha256": "9702de7e4117a8e2b20dafab11ffda58c198aede066406496bef670d40a22138"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/highway/LICENSE-BSD3",
+    "file": "ef716e4a31a63db3-LICENSE-BSD3",
+    "sha256": "d25e82e26acd42ca3ccc9993622631163425b869b9e16284226d534cff6470f2"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/libwebm/AUTHORS.TXT",
+    "file": "0a9c0b89738ac879-AUTHORS.TXT",
+    "sha256": "3edb5f5496bfff3d6d4a62fa75fe996b814920d0d6e348c2e65c589e7ac5d177"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/libwebm/LICENSE.TXT",
+    "file": "8b69365e44b98201-LICENSE.TXT",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/libwebm/PATENTS.TXT",
+    "file": "87f112842c2914e7-PATENTS.TXT",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/libyuv/LICENSE",
+    "file": "493fc9753bdc8542-LICENSE",
+    "sha256": "2b2cc1180c7e6988328ad2033b04b80117419db9c4c584918bbb3cfec7e9364f"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/vector/LICENSE",
+    "file": "8bb34d9fb5b23a23-LICENSE",
+    "sha256": "ff6c857ce2708e87701323078aef115c1872a1f80a9649f86dc899b48083bc60"
+  },
+  {
+    "archive": "aom-3.14.1.tar.gz",
+    "member": "third_party/x86inc/LICENSE",
+    "file": "9c2806a9d50ef152-LICENSE",
+    "sha256": "719d8fa235f2068e0ae6d6a7dceb0a7720d7840f0f0ebed29957989e6ded3cd8"
+  },
+  {
+    "archive": "brotli-1.2.0.tar.gz",
+    "member": "brotli-1.2.0/LICENSE",
+    "file": "214cba164410be3e-LICENSE",
+    "sha256": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94"
+  },
+  {
+    "archive": "charset_normalizer-3.5.2.tar.gz",
+    "member": "charset_normalizer-3.5.2/LICENSE",
+    "file": "c196343ddcd8a821-LICENSE",
+    "sha256": "6d0d41bfe170ac6c7dc248c9a63e254d0fb45a60d50a8257d0af92c6e249b887"
+  },
+  {
+    "archive": "charset_normalizer-3.5.2.tar.gz",
+    "member": "charset_normalizer-3.5.2/data/NOTICE.md",
+    "file": "91de1a696574e633-NOTICE.md",
+    "sha256": "0cb3efcfd8f7a02a337e98dc3de4b0b57424d7208a332b26e7deb8cb94c13922"
+  },
+  {
+    "archive": "CPython-bzip2-1.0.8-05301997b2f9.tar.gz",
+    "member": "cpython-source-deps-05301997b2f9590f49c672cf3dfd3d3dfa7ad521/LICENSE",
+    "file": "96a69affa2eb88dd-LICENSE",
+    "sha256": "c6dbbf828498be844a89eaa3b84adbab3199e342eb5cb2ed2f0d4ba7ec0f38a3"
+  },
+  {
+    "archive": "CPython-libffi-3.4.4-73b247f34ef3.tar.gz",
+    "member": "cpython-source-deps-73b247f34ef3ae1859b8c2c34d321d34ebc5db15/LICENSE",
+    "file": "48f8b79a87e3277b-LICENSE",
+    "sha256": "2c9c2acb9743e6b007b91350475308aee44691d96aa20eacef8e199988c8c388"
+  },
+  {
+    "archive": "CPython-libffi-3.4.4-73b247f34ef3.tar.gz",
+    "member": "cpython-source-deps-73b247f34ef3ae1859b8c2c34d321d34ebc5db15/LICENSE-BUILDTOOLS",
+    "file": "14c62eb63c2cbdca-LICENSE-BUILDTOOLS",
+    "sha256": "e67978cd18816c0cb7d29aaaacde7b7447402c2fb321a051698890a8eaedda94"
+  },
+  {
+    "archive": "CPython-openssl-3.0.13-a5c15eb94f28.tar.gz",
+    "member": "cpython-source-deps-a5c15eb94f2878e44ffc74086b0cd2ea8db55488/AUTHORS.md",
+    "file": "d3d8d467877cb417-AUTHORS.md",
+    "sha256": "5076ca441daef7fb35e904c2ac070880c7b3d58300a5a6aecac41e8f525f4412"
+  },
+  {
+    "archive": "CPython-openssl-3.0.13-a5c15eb94f28.tar.gz",
+    "member": "cpython-source-deps-a5c15eb94f2878e44ffc74086b0cd2ea8db55488/LICENSE.txt",
+    "file": "53d563d2a5280313-LICENSE.txt",
+    "sha256": "7d5450cb2d142651b8afa315b5f238efc805dad827d91ba367d8516bc9d49e7a"
+  },
+  {
+    "archive": "CPython-openssl-3.0.13-a5c15eb94f28.tar.gz",
+    "member": "cpython-source-deps-a5c15eb94f2878e44ffc74086b0cd2ea8db55488/external/perl/Text-Template-1.56/LICENSE",
+    "file": "fe6fe93a06515878-LICENSE",
+    "sha256": "9837f05336ef3cbacb6a96e1672a0426d81ad01191f214b8d48e22ca62338181"
+  },
+  {
+    "archive": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+    "member": "cpython-source-deps-c6bc0c612605622aaef101a33a751f9de2ecc193/AUTHORS",
+    "file": "c7769ba907246e0b-AUTHORS",
+    "sha256": "72d7a7ee8a4eaca5d0b53f20609eff95d5e6f9e155ecce98127414b8215b0b15"
+  },
+  {
+    "archive": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+    "member": "cpython-source-deps-c6bc0c612605622aaef101a33a751f9de2ecc193/COPYING",
+    "file": "8ea5d2432bf3ae07-COPYING",
+    "sha256": "bcb02973ef6e87ea73d331b3a80df7748407f17efdb784b61b47e0e610d3bb5c"
+  },
+  {
+    "archive": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+    "member": "cpython-source-deps-c6bc0c612605622aaef101a33a751f9de2ecc193/COPYING.GPLv2",
+    "file": "e80a9979f3c376cd-COPYING.GPLv2",
+    "sha256": "8177f97513213526df2cf6184d8ff986c675afb514d4e68a404010521b880643"
+  },
+  {
+    "archive": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+    "member": "cpython-source-deps-c6bc0c612605622aaef101a33a751f9de2ecc193/COPYING.GPLv3",
+    "file": "b8a8904698fab79b-COPYING.GPLv3",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "archive": "CPython-xz-5.2.5-c6bc0c612605.tar.gz",
+    "member": "cpython-source-deps-c6bc0c612605622aaef101a33a751f9de2ecc193/COPYING.LGPLv2.1",
+    "file": "5f1aafd4ef585cd1-COPYING.LGPLv2.1",
+    "sha256": "dc626520dcd53a22f727af3ee42c770e56c97a64fe3adb063799d8ab032fe551"
+  },
+  {
+    "archive": "CPython-zlib-1.3.1-4dc98e190983.tar.gz",
+    "member": "cpython-source-deps-4dc98e1909830e2bdc2a9cc2236e3c5d5037335b/LICENSE",
+    "file": "9885c9ac1f8c9b81-LICENSE",
+    "sha256": "845efc77857d485d91fb3e0b884aaa929368c717ae8186b66fe1ed2495753243"
+  },
+  {
+    "archive": "CPython-zlib-1.3.1-4dc98e190983.tar.gz",
+    "member": "cpython-source-deps-4dc98e1909830e2bdc2a9cc2236e3c5d5037335b/contrib/dotzlib/LICENSE_1_0.txt",
+    "file": "0f7bae780a48ae60-LICENSE_1_0.txt",
+    "sha256": "36266a8fd073568394cb81cdb2b124f7fdae2c64c1a7ed09db34b4d22efa2951"
+  },
+  {
+    "archive": "dav1d-1.5.3-b546257f7707.tar.gz",
+    "member": "dav1d-b546257f770768b2c88258c533da38b91a06f737/COPYING",
+    "file": "8f487350264a08d6-COPYING",
+    "sha256": "dd92c3c2247c5651606fc23a5e2d6a1ebc5ace9a3e49cbde0e12f05ad1cb1ee5"
+  },
+  {
+    "archive": "dav1d-1.5.3-b546257f7707.tar.gz",
+    "member": "dav1d-b546257f770768b2c88258c533da38b91a06f737/doc/PATENTS",
+    "file": "dd351a0eee214a62-PATENTS",
+    "sha256": "335eca574598bf4ca181b12f708d6669e5a5e78c8e1513e5b35fa1f03901484b"
+  },
+  {
+    "archive": "freetype-2.14.3.tar.gz",
+    "member": "freetype-2.14.3/docs/GPLv2.TXT",
+    "file": "a8c804d2b0476f9a-GPLv2.TXT",
+    "sha256": "c4120c6752c910c299e3bd9cb3a46ff262c268303ca2069b61f92f10a5656c18"
+  },
+  {
+    "archive": "freetype-2.14.3.tar.gz",
+    "member": "freetype-2.14.3/docs/FTL.TXT",
+    "file": "44caa412fa2d93ba-FTL.TXT",
+    "sha256": "5a5ee54c5001bbad1cdc1a57cc3dd4c42199b2da09d39c7ee41fab002d02967f"
+  },
+  {
+    "archive": "freetype-2.14.3.tar.gz",
+    "member": "freetype-2.14.3/LICENSE.TXT",
+    "file": "2409e1aa91b94f01-LICENSE.TXT",
+    "sha256": "bd36c8b474855fa294c2ec5c184544478ef3720aad37d65a6296a4f264fd2d3b"
+  },
+  {
+    "archive": "lcms2-2.19.1.tar.gz",
+    "member": "lcms2-2.19.1/LICENSE",
+    "file": "93fbf4484c7e813a-LICENSE",
+    "sha256": "6dbd60437f8ef91d8de1f08ad75882547fd4931bfcc3566a0735f28db1484d31"
+  },
+  {
+    "archive": "lcms2-2.19.1.tar.gz",
+    "member": "lcms2-2.19.1/plugins/fast_float/COPYING.GPL3",
+    "file": "6a59e5421f591dbb-COPYING.GPL3",
+    "sha256": "c53a65c2fd561c87eaabf1072ef5dcab8653042bc15308465f52413585eb6271"
+  },
+  {
+    "archive": "lcms2-2.19.1.tar.gz",
+    "member": "lcms2-2.19.1/plugins/threaded/COPYING.GPL3",
+    "file": "c5155775628a3f67-COPYING.GPL3",
+    "sha256": "c53a65c2fd561c87eaabf1072ef5dcab8653042bc15308465f52413585eb6271"
+  },
+  {
+    "archive": "lcms2-2.19.1.tar.gz",
+    "member": "lcms2-2.19.1/utils/jpgicc/LICENSE_iccjpeg",
+    "file": "08997ded7cefcc7e-LICENSE_iccjpeg",
+    "sha256": "8baac37d14eed89b82ffcb041677dd701164eb5cc0f26e165fe47eb11afa0dca"
+  },
+  {
+    "archive": "lcms2-2.19.1.tar.gz",
+    "member": "lcms2-2.19.1/AUTHORS",
+    "file": "0a007965e12830eb-AUTHORS",
+    "sha256": "4847d97cd41e980794939b1d2694bd8f67b92856ec80e95c2fcfc34066f0df93"
+  },
+  {
+    "archive": "libavif-1.4.2.tar.gz",
+    "member": "libavif-1.4.2/LICENSE",
+    "file": "191fa5eadfa1f7bb-LICENSE",
+    "sha256": "165abf92cc04b39e80d29cadea7a6a7e8fddf59407d4ad2616507a7ebe8216f9"
+  },
+  {
+    "archive": "libavif-1.4.2.tar.gz",
+    "member": "libavif-1.4.2/third_party/libyuv/AUTHORS",
+    "file": "5db8bd04f2559c49-AUTHORS",
+    "sha256": "406e9dee7651ff7a415ef126fe6f649b29312ea3f2b28f11bb7f0bf458edb3bd"
+  },
+  {
+    "archive": "libjpeg-turbo-3.1.4.1.tar.gz",
+    "member": "libjpeg-turbo-3.1.4.1/LICENSE.md",
+    "file": "4da85e36d66b0d6f-LICENSE.md",
+    "sha256": "e10114e6e40f3d0311c401ca25245ac5ef459a43c20f976fd63f03e816f5741f"
+  },
+  {
+    "archive": "libjpeg-turbo-3.1.4.1.tar.gz",
+    "member": "libjpeg-turbo-3.1.4.1/java/doc/legal/LICENSE",
+    "file": "6dc5eb674be650b5-LICENSE",
+    "sha256": "4b9abebc4338048a7c2dc184e9f800deb349366bdf28eb23c2677a77b4c87726"
+  },
+  {
+    "archive": "libjpeg-turbo-3.1.4.1.tar.gz",
+    "member": "libjpeg-turbo-3.1.4.1/release/License.rtf",
+    "file": "2121ad28df0352b9-License.rtf",
+    "sha256": "d26120ab237f87dea10aa4fa7fd4243cadffd26e54eb2f3903d5fb0f8ed336b2"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/AUTHORS",
+    "file": "3e149554de0b2ec9-AUTHORS",
+    "sha256": "0c777e9f2a67bd4058ab91050eb7a56106c92ed038ba8fe5f54c83344f2d93ca"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/LICENSE",
+    "file": "82f8457d846b08c2-LICENSE",
+    "sha256": "bdb0a645ea18c60507d0368379b1ac5474b92255fcc2d115e07486a7672ba526"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/ci/LICENSE_MIT.txt",
+    "file": "e091c64fe028da74-LICENSE_MIT.txt",
+    "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/contrib/gregbook/COPYING",
+    "file": "e2eb9ee6dcbad739-COPYING",
+    "sha256": "d6cb0e9e560f51085556949a84af12b79a00f10ab8b66c752537faf7cd665572"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/contrib/gregbook/LICENSE",
+    "file": "aa7e2c11394ff2f1-LICENSE",
+    "sha256": "b6a03c1803eb58ffb1f1278d5c7d4096c4c116e66dce8a7553e8c77d163c3438"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/contrib/pngexif/LICENSE_MIT.txt",
+    "file": "12db7fd87c24b958-LICENSE_MIT.txt",
+    "sha256": "508a77d2e7b51d98adeed32648ad124b7b30241a8e70b2e72c99f92d8e5874d1"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/contrib/pngminus/LICENSE.txt",
+    "file": "1f67cf45cc63f2b2-LICENSE.txt",
+    "sha256": "1806f1f10d393e9e377b3a8d1b968452b54f1a90378f14eeef45426946ace330"
+  },
+  {
+    "archive": "libpng-1.6.58.tar.gz",
+    "member": "libpng-1.6.58/scripts/cmake/AUTHORS.md",
+    "file": "5f7100e4ee3f15b9-AUTHORS.md",
+    "sha256": "50633b976f0133862c921aa67d56de2c0b42eb344c8ca3853686efb092a447db"
+  },
+  {
+    "archive": "libwebp-1.6.0.tar.gz",
+    "member": "libwebp-1.6.0/PATENTS",
+    "file": "ef5d5cd66bfa1ee9-PATENTS",
+    "sha256": "cc3273e0694ea5896145e0677699b53471b03ea43021ddc50e7923fbb9f5023c"
+  },
+  {
+    "archive": "libwebp-1.6.0.tar.gz",
+    "member": "libwebp-1.6.0/COPYING",
+    "file": "795bc02c37c06b3b-COPYING",
+    "sha256": "5aec868f669e384a22372a4e8a1a6cd7d44c64cd451f960ca69cc170d1e13acf"
+  },
+  {
+    "archive": "libwebp-1.6.0.tar.gz",
+    "member": "libwebp-1.6.0/AUTHORS",
+    "file": "d348580762c9c7c8-AUTHORS",
+    "sha256": "f251be89fd442bd9d701360730aea163cc8e2076ff03528f59267dc2c4f8b60a"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/COPYING",
+    "file": "9fd07a82a64f5334-COPYING",
+    "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/docs/license.md",
+    "file": "23dd20d6380437a7-license.md",
+    "sha256": "1412b5e5fb96eaff8676441921586b1fe3951358815ae1780568779cd5714740"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/resources/fonts/droid/NOTICE",
+    "file": "fed0a2a100d89fea-NOTICE",
+    "sha256": "38751245389e1e23f73e6f5384b5cbe7fa972cc4410c5adc9c04b082a0b9561a"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/resources/fonts/han/LICENSE.txt",
+    "file": "cdd265435f582b0e-LICENSE.txt",
+    "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/resources/fonts/noto/COPYING",
+    "file": "ba7622719fa1eac7-COPYING",
+    "sha256": "6a73f9541c2de74158c0e7cf6b0a58ef774f5a780bf191f2d7ec9cc53efe2bf2"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/brotli/LICENSE",
+    "file": "54284f3699965965-LICENSE",
+    "sha256": "3d180008e36922a4e8daec11c34c7af264fed5962d07924aea928c38e8663c94"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/cmark-gfm/COPYING",
+    "file": "bf9fcf5950c3e231-COPYING",
+    "sha256": "c22e885f33b821bddb24cf007145e5540655b6c0f403e49e6c76a93c28e6d9a9"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/curl/COPYING",
+    "file": "42694b2eefbec6df-COPYING",
+    "sha256": "8c8824f50e73a021f5dde1fccbf69685939247399a33a32abab1fa448c9ddabb"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/curl/docs/LICENSE-MIXING.md",
+    "file": "f1e8f356e8f05b9f-LICENSE-MIXING.md",
+    "sha256": "6f4bfc06c8209f38bb7bd4a16820e94b5c05e9de4e8c14ec094f15dddfaed777"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/extract/COPYING",
+    "file": "948966f1b11054d9-COPYING",
+    "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/freeglut/AUTHORS",
+    "file": "b08c39c89087aeda-AUTHORS",
+    "sha256": "766c8fe7c6d849a5aaed5b2f6b8f013849225596c723d004e12c3036935391a3"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/freeglut/COPYING",
+    "file": "285a92856e2ca5bd-COPYING",
+    "sha256": "b6593d5ec4c113a274abb85b10e8615895cb0ddb89f7912af5fe5aa8df38a275"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/freetype/LICENSE.TXT",
+    "file": "5c3846033a5b83bc-LICENSE.TXT",
+    "sha256": "bd36c8b474855fa294c2ec5c184544478ef3720aad37d65a6296a4f264fd2d3b"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/freetype/docs/FTL.TXT",
+    "file": "00bc6c7c18a7e704-FTL.TXT",
+    "sha256": "5a5ee54c5001bbad1cdc1a57cc3dd4c42199b2da09d39c7ee41fab002d02967f"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/freetype/docs/GPLv2.TXT",
+    "file": "6f62a7c58257df37-GPLv2.TXT",
+    "sha256": "c4120c6752c910c299e3bd9cb3a46ff262c268303ca2069b61f92f10a5656c18"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/gumbo-parser/COPYING",
+    "file": "db120c67dfbaf08b-COPYING",
+    "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/harfbuzz/AUTHORS",
+    "file": "93ea104f966cbc06-AUTHORS",
+    "sha256": "19bfe8f5ed100636cd24ab0c90a3f71c21d8b02d9ba00719447a0faab364d49f"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/harfbuzz/COPYING",
+    "file": "eff43ab0b1370346-COPYING",
+    "sha256": "ba8f810f2455c2f08e2d56bb49b72f37fcf68f1f4fade38977cfd7372050ad64"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/harfbuzz/src/ms-use/COPYING",
+    "file": "a9d08f32e3fc7003-COPYING",
+    "sha256": "c2cfccb812fe482101a8f04597dfc5a9991a6b2748266c47ac91b6a5aae15383"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/jbig2dec/COPYING",
+    "file": "e1e389978e56e9b4-COPYING",
+    "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/jbig2dec/LICENSE",
+    "file": "36c8f0818a01506b-LICENSE",
+    "sha256": "1bf5258afe453934484fd0cea97508b72301633a6a78b0ae8a9ee44ac78f26d9"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/lcms2/AUTHORS",
+    "file": "1bdb194f736b525f-AUTHORS",
+    "sha256": "4847d97cd41e980794939b1d2694bd8f67b92856ec80e95c2fcfc34066f0df93"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/lcms2/LICENSE",
+    "file": "294125b436fcf891-LICENSE",
+    "sha256": "74fe8934cee0e63e8368d4a6b3a703b603e753a62b75b75273572e98a57ebf75"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/lcms2/plugins/threaded/COPYING.GPL3",
+    "file": "92398814b9aa0154-COPYING.GPL3",
+    "sha256": "c53a65c2fd561c87eaabf1072ef5dcab8653042bc15308465f52413585eb6271"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/lcms2/utils/jpgicc/LICENSE_iccjpeg",
+    "file": "5224c354e28d133e-LICENSE_iccjpeg",
+    "sha256": "8baac37d14eed89b82ffcb041677dd701164eb5cc0f26e165fe47eb11afa0dca"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/mujs/AUTHORS",
+    "file": "a4369f787f859918-AUTHORS",
+    "sha256": "d24f0cf75bdfe4e003592fb3eabca1ee8db9698b162e241c081462461eb9369f"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/mujs/COPYING",
+    "file": "6477a9c013f87790-COPYING",
+    "sha256": "0ca9b4fbfbcab8ac7d32475890d866efc02f4cffb6b6da5c0e9a0615cc3d82fe"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/openjpeg/AUTHORS.md",
+    "file": "6c8532bca806f46f-AUTHORS.md",
+    "sha256": "cf22e984f9fbb9be7550e9a94120595ba8c4a7de0d63f47d3725f4b2e28a4387"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/openjpeg/LICENSE",
+    "file": "df641f59657e7a1b-LICENSE",
+    "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/tesseract/AUTHORS",
+    "file": "54942f8fa9222fa1-AUTHORS",
+    "sha256": "720862b7253993b348fe15f37ed6e0d4feb0fc8df8324284d75975d54dd29923"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/tesseract/LICENSE",
+    "file": "1b55543dea293ffd-LICENSE",
+    "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/LICENSE",
+    "file": "ef6746907b6564ac-LICENSE",
+    "sha256": "d69af7f2442fcde1c3372cbbb43907fa1f4b3a91ef3899be69dd3a726dc255a4"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/backend_qt/COPYING",
+    "file": "1baa933e8f339c13-COPYING",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/backend_tcl/licence.txt",
+    "file": "dbe3a03618e1fb05-licence.txt",
+    "sha256": "b1722b97c78ba93650e62ff02dac8bad2859eaf6d6965ce025510c8c0c508514"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/frontend/COPYING",
+    "file": "b8118335ac499945-COPYING",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/frontend_qt/COPYING",
+    "file": "8005098e93e74839-COPYING",
+    "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/frontend_qt/res/LICENSE_feathericons",
+    "file": "31a1df4142fdbe83-LICENSE_feathericons",
+    "sha256": "7b4fbc0fda4330e71c1c20706b69e69f2c5ea721fcf3791911188e268975b523"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zint/frontend_qt/res/LICENSE_lucide",
+    "file": "fafc99340afcccea-LICENSE_lucide",
+    "sha256": "1e7290b35280a048667bbf0ebabac1c7fd52a75300e8b2946ac165715997f2bc"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zlib/LICENSE",
+    "file": "587fe342d27aaa1d-LICENSE",
+    "sha256": "e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2"
+  },
+  {
+    "archive": "mupdf-1.28.2-source.tar.gz",
+    "member": "mupdf-1.28.2-source/thirdparty/zxing-cpp/LICENSE",
+    "file": "1995d1f678ec690e-LICENSE",
+    "sha256": "c6596eb7be8581c18be736c846fb9173b69eccf6ef94c5135893ec56bd92ba08"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/AUTHORS.md",
+    "file": "45d8234cdbac5fb4-AUTHORS.md",
+    "sha256": "cf22e984f9fbb9be7550e9a94120595ba8c4a7de0d63f47d3725f4b2e28a4387"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/LICENSE",
+    "file": "75574e5e9be7d744-LICENSE",
+    "sha256": "a6af136f3e15038a666b61f376612a07d9a4e48cb7c01adbf3e33b3f14ab49b6"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/src/bin/wx/OPJViewer/source/license.txt",
+    "file": "215dff6e368e83be-license.txt",
+    "sha256": "8081c33f6953950dcf424aa844714658b73ada0fcaea16e4487f5fa07ef0960d"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/thirdparty/astyle/LICENSE.md",
+    "file": "49955524580e55d2-LICENSE.md",
+    "sha256": "2e8480e753b7a1d100c80920f4250b1bc9f93a18c6a5953c42b11445218cd0fb"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/thirdparty/liblcms2/COPYING",
+    "file": "c9a26d7969572b24-COPYING",
+    "sha256": "c725daac91a9259ce5e195683c0eeb797d345035c36ac5ba114c9fa80e11639a"
+  },
+  {
+    "archive": "openjpeg-2.5.4.tar.gz",
+    "member": "openjpeg-2.5.4/thirdparty/libpng/LICENSE",
+    "file": "b9f11d14ee42e435-LICENSE",
+    "sha256": "7317e078e2d3b5d7ba5a6159e650945153262b44b76f6700f8e9edb261c5143e"
+  },
+  {
+    "archive": "packaging-26.3.tar.gz",
+    "member": "packaging-26.3/LICENSE",
+    "file": "905b638bcec23006-LICENSE",
+    "sha256": "cad1ef5bd340d73e074ba614d26f7deaca5c7940c3d8c34852e65c4909686c48"
+  },
+  {
+    "archive": "packaging-26.3.tar.gz",
+    "member": "packaging-26.3/LICENSE.APACHE",
+    "file": "094e2f026daf1cb4-LICENSE.APACHE",
+    "sha256": "0d542e0c8804e39aa7f37eb00da5a762149dc682d7829451287e11b938e94594"
+  },
+  {
+    "archive": "packaging-26.3.tar.gz",
+    "member": "packaging-26.3/LICENSE.BSD",
+    "file": "232c85c6a14f2a9b-LICENSE.BSD",
+    "sha256": "b70e7e9b742f1cc6f948b34c16aa39ffece94196364bc88ff0d2180f0028fac5"
+  },
+  {
+    "archive": "packaging-26.3.tar.gz",
+    "member": "packaging-26.3/docs/licenses.rst",
+    "file": "93ea1db420427811-licenses.rst",
+    "sha256": "763abb29c53e906e1e8d839deff7cca19c98d1c6c2bbf576ddc7394baeacf9c3"
+  },
+  {
+    "archive": "pefile-2024.8.26.tar.gz",
+    "member": "pefile-2024.8.26/LICENSE",
+    "file": "5b3d7fb491715eea-LICENSE",
+    "sha256": "b44409c067c6da52bfb54bb6624fb11a7b52157c3a13ae1400232f8196e86ad3"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/LICENSE",
+    "file": "c7aabfa53c266a3d-LICENSE",
+    "sha256": "15181e7363dca9aed78b79bebebc7fde7f1814b8bd311ea3b87ae8ccadfc185b"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/Tests/fonts/DejaVuSans/LICENSE.txt",
+    "file": "6d0d3e9b4fed3176-LICENSE.txt",
+    "sha256": "ba4aee7ef5b2ebc285e76df2497953d8a6e7480bc249f4e0a55f1199a3396622"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/Tests/fonts/LICENSE.txt",
+    "file": "d54a7751a05eed90-LICENSE.txt",
+    "sha256": "b79f6f6a2fc060b2e0a6e7a6946c446ae199bec07b92a3df1295975e25c4d96b"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/Tests/icc/LICENSE.txt",
+    "file": "753b3172e3d546a5-LICENSE.txt",
+    "sha256": "09e62757edb34e284bc11c54e3429b438d9db37f46c9cb36bd57b1b25ae36184"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/docs/COPYING",
+    "file": "ae7a65d6f39a855b-COPYING",
+    "sha256": "d44ce2bbf81806be0eb34ec0ecb0cb013ccd56a94057daf214fb7381adde8f0c"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/src/thirdparty/raqm/AUTHORS",
+    "file": "1a1d656b4e3254b9-AUTHORS",
+    "sha256": "e81eb8c13d248620f229af26700a5d8c928bac0fd971cae6e76e2f88228ea9e2"
+  },
+  {
+    "archive": "pillow-12.3.0.tar.gz",
+    "member": "pillow-12.3.0/src/thirdparty/raqm/COPYING",
+    "file": "0e84e68105df4c02-COPYING",
+    "sha256": "4a574f631d5aee5223d108d3f7ec4f717343685d8a8904f42591be72c907ecba"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/LICENSE",
+    "file": "fe34900d4036d7ca-LICENSE",
+    "sha256": "15181e7363dca9aed78b79bebebc7fde7f1814b8bd311ea3b87ae8ccadfc185b"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/Tests/fonts/DejaVuSans/LICENSE.txt",
+    "file": "754f41ba8d3f85ad-LICENSE.txt",
+    "sha256": "ba4aee7ef5b2ebc285e76df2497953d8a6e7480bc249f4e0a55f1199a3396622"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/Tests/fonts/LICENSE.txt",
+    "file": "2884a92b90cca81d-LICENSE.txt",
+    "sha256": "b79f6f6a2fc060b2e0a6e7a6946c446ae199bec07b92a3df1295975e25c4d96b"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/Tests/icc/LICENSE.txt",
+    "file": "080f0ab3619073cc-LICENSE.txt",
+    "sha256": "09e62757edb34e284bc11c54e3429b438d9db37f46c9cb36bd57b1b25ae36184"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/docs/COPYING",
+    "file": "4693b680892c6330-COPYING",
+    "sha256": "d44ce2bbf81806be0eb34ec0ecb0cb013ccd56a94057daf214fb7381adde8f0c"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/src/thirdparty/raqm/AUTHORS",
+    "file": "3f2c7416069de734-AUTHORS",
+    "sha256": "e81eb8c13d248620f229af26700a5d8c928bac0fd971cae6e76e2f88228ea9e2"
+  },
+  {
+    "archive": "Pillow-full-build-source-bb1d8e8ab8d2.tar.gz",
+    "member": "Pillow-bb1d8e8ab8d29048624d96e3ee53cecf7c13d13d/src/thirdparty/raqm/COPYING",
+    "file": "601cdce9a6dafe3c-COPYING",
+    "sha256": "4a574f631d5aee5223d108d3f7ec4f717343685d8a8904f42591be72c907ecba"
+  },
+  {
+    "archive": "pyinstaller-6.22.3.tar.gz",
+    "member": "pyinstaller-6.22.3/bootloader/waflib/LICENSE",
+    "file": "5f8b3fab4ad2e0a0-LICENSE",
+    "sha256": "f1a08e9a6ef535799105fca437e0fb38dc64acb0f224b115ab38fdc458cede53"
+  },
+  {
+    "archive": "pyinstaller-6.22.3.tar.gz",
+    "member": "pyinstaller-6.22.3/bootloader/zlib/LICENSE",
+    "file": "5d068b1beb3d390e-LICENSE",
+    "sha256": "e32ff4e00d9d94930537635291da39e7e612703334bf6fde8c7f1686fe8a45a2"
+  },
+  {
+    "archive": "pyinstaller-6.22.3.tar.gz",
+    "member": "pyinstaller-6.22.3/doc/license.rst",
+    "file": "59564b8aba14fa99-license.rst",
+    "sha256": "98be0224c3df051092249a1b1387ef3f6fd01d6d87eb263266244a2237bb7ce3"
+  },
+  {
+    "archive": "pyinstaller-6.22.3.tar.gz",
+    "member": "pyinstaller-6.22.3/COPYING.txt",
+    "file": "17982ad7ee9793db-COPYING.txt",
+    "sha256": "0598064c7d2718e38d7914a7d08343b2fa008e3bea9ebba2aa7a6ffa5900dd64"
+  },
+  {
+    "archive": "pyinstaller_hooks_contrib-2026.9.tar.gz",
+    "member": "pyinstaller_hooks_contrib-2026.9/LICENSE",
+    "file": "1998c37b8965bed4-LICENSE",
+    "sha256": "91d0baaff00773038e72c0a1fc9d5d2d38706b7a2b9c04f34296608f931b9cd0"
+  },
+  {
+    "archive": "pymupdf-1.28.2.tar.gz",
+    "member": "pymupdf-1.28.2/COPYING",
+    "file": "662eec86d8f32f86-COPYING",
+    "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Doc/license.rst",
+    "file": "8ee90fca45d73a71-license.rst",
+    "sha256": "2b734ec5975b21b29ae8b9756a00fc3dfe701abe51687cec4c98a21c51005bca"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/LICENSE",
+    "file": "767276dd2de455de-LICENSE",
+    "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Mac/BuildScript/resources/License.rtf",
+    "file": "b1aa3557b15e468f-License.rtf",
+    "sha256": "ab6df6040a4e24babad38f98454eb3263722fa6a1c441bfaa271798efbe55f27"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Modules/_ctypes/darwin/LICENSE",
+    "file": "25d680a1aa77cdcf-LICENSE",
+    "sha256": "8088ec43d0290e44628a5c2c84c1ca37983080d47e0bb6e0c89aa695b12630ec"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Modules/_ctypes/libffi_osx/LICENSE",
+    "file": "0644668bb414db68-LICENSE",
+    "sha256": "40a537c7d74baeed3831304e92d1664ababd7ad8a3cf29f11a257c9e47145248"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Modules/_sha3/LICENSE",
+    "file": "6bb147c21a85361e-LICENSE",
+    "sha256": "4633fc5859344c6f244939c27700fb941d12c4636215a8eccde17d9a6d1dcb0d"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Modules/expat/COPYING",
+    "file": "980deaff7a70021a-COPYING",
+    "sha256": "122f2c27000472a201d337b9b31f7eb2b52d091b02857061a8880371612d9534"
+  },
+  {
+    "archive": "Python-3.11.9.tar.xz",
+    "member": "Python-3.11.9/Tools/msi/bundle/bootstrap/LICENSE.txt",
+    "file": "a2891d47b3b815c2-LICENSE.txt",
+    "sha256": "cb95daf98edda8e08a242e1060691b6941f0911692bf468a3f9c5e4b58c09b8f"
+  },
+  {
+    "archive": "pywin32-ctypes-0.2.3.tar.gz",
+    "member": "pywin32-ctypes-0.2.3/LICENSE.txt",
+    "file": "45f20be65576cf63-LICENSE.txt",
+    "sha256": "dfa83b3e2709adfcdb838d9ad55823ca674abb780e60563d9dd9544ccbf785e9"
+  },
+  {
+    "archive": "reportlab-4.5.1.tar.gz",
+    "member": "reportlab-4.5.1/LICENSE",
+    "file": "f882af3bb12a8e7e-LICENSE",
+    "sha256": "ef831761646313921375fc2cb888e8eeaf7da213d0b92852c10c42f3a0b4d138"
+  },
+  {
+    "archive": "setuptools-65.5.0.tar.gz",
+    "member": "setuptools-65.5.0/LICENSE",
+    "file": "a6dd2e5efeef93c3-LICENSE",
+    "sha256": "db3f0246b1f9278f15845b99fec478b8b506eb76487993722f8c6e254285faf8"
+  },
+  {
+    "archive": "SimConnect-0.4.26.tar.gz",
+    "member": "SimConnect-0.4.26/LICENSE",
+    "file": "edb47e14bf260ad9-LICENSE",
+    "sha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef"
+  },
+  {
+    "archive": "tiff-4.7.1.tar.gz",
+    "member": "tiff-4.7.1/doc/html-prebuilt/_sources/project/license.rst.txt",
+    "file": "9695ae051d19bac3-license.rst.txt",
+    "sha256": "02e86af3b805e0f2075ebb5ac512831f6ab2a97ddeb186de076c418956418ba1"
+  },
+  {
+    "archive": "tiff-4.7.1.tar.gz",
+    "member": "tiff-4.7.1/doc/project/license.rst",
+    "file": "d8dd2a599ca66039-license.rst",
+    "sha256": "02e86af3b805e0f2075ebb5ac512831f6ab2a97ddeb186de076c418956418ba1"
+  },
+  {
+    "archive": "tiff-4.7.1.tar.gz",
+    "member": "tiff-4.7.1/LICENSE.md",
+    "file": "dc1dec4fc42baefc-LICENSE.md",
+    "sha256": "0e27c2382d7b8147972bbb746e04059a1152c8d0fda9d03ef1399d1a433c4ade"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/AUTHORS",
+    "file": "c5c7cff548d2fd2b-AUTHORS",
+    "sha256": "01e6df90d71d591f4307db3f397a5a4fac93b18533f5a3862156f1a0a7dc8610"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/COPYING",
+    "file": "68da448f8d7229f8-COPYING",
+    "sha256": "616a3ad264ce29b8f1cb97e53037b139d406899ca8d1f799651e17bfa09830b8"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/COPYING.0BSD",
+    "file": "33c7e20aaa7f4a15-COPYING.0BSD",
+    "sha256": "0b01625d853911cd0e2e088dcfb743261034a091bb379246cb25a14cc4c74bf1"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/COPYING.GPLv2",
+    "file": "5ee454418462aa5b-COPYING.GPLv2",
+    "sha256": "edaef632cbb643e4e7a221717a6c441a4c1a7c918e6e4d56debc3d8739b233f6"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/COPYING.GPLv3",
+    "file": "63f40d29c3acd898-COPYING.GPLv3",
+    "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/COPYING.LGPLv2.1",
+    "file": "11b6f023d0c7ce7a-COPYING.LGPLv2.1",
+    "sha256": "20e50fe7aae3e56378ebf0417d9de904f55a0e61e4df315333e632a4d3555d95"
+  },
+  {
+    "archive": "xz-5.8.3.tar.gz",
+    "member": "xz-5.8.3/build-aux/license-check.sh",
+    "file": "5b3c7eeb71933726-license-check.sh",
+    "sha256": "2b3fa1d23cb2ab084f3d919908159473cc0e1eed059d106e2a2857c0ec8af98a"
+  },
+  {
+    "archive": "zlib-ng-2.3.3-12731092979c.tar.gz",
+    "member": "zlib-ng-12731092979c6d07f42da27da673a9f6c7b13586/LICENSE.md",
+    "file": "aac5b85ee1d109ec-LICENSE.md",
+    "sha256": "6c9f0d975b41afaa34d22f55bb8986ce69e5cb7ad327cb2b28820cd425edf5ee"
+  }
+]
